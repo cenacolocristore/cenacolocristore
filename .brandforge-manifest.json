@@ -1,17 +1,18 @@
 {
   "generator": "BrandForge Bot",
-  "engine": "Enterprise Complete Site Builder + Complete GitHub Builder",
-  "version": 11,
-  "generated_at": "2026-09-12T04:02:35.407Z",
+  "engine": "Telnyx Voice Site Builder + Complete GitHub Builder",
+  "version": 12,
+  "generated_at": "2026-09-12T06:02:24.038Z",
   "avatar": {
-    "bytes": 4657,
-    "kilobytes": 4.5,
+    "bytes": 4719,
+    "kilobytes": 4.6,
     "underOneMb": true,
     "width": 512,
     "height": 512,
     "mime": "image/png"
   },
   "paths": [
+    ".env.example",
     ".github/ISSUE_TEMPLATE/bug_report.yml",
     ".github/ISSUE_TEMPLATE/config.yml",
     ".github/ISSUE_TEMPLATE/feature_request.yml",
@@ -25,6 +26,9 @@
     "brand/logo.svg",
     "brand/profile-avatar.png",
     "brand/visual-hero.svg",
+    "docs/TELNYX-SETUP.md",
+    "docs/TELNYX-WEBHOOKS.md",
+    "docs/VOICE-ARCHITECTURE.md",
     "docs/site-map.md"
   ]
 }

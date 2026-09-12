@@ -2,11 +2,14 @@
 
 - Home
 - Capabilities
-  - Shop
-  - Collections
-  - New Arrivals
-  - Brand Story
-  - Support
+  - Voice Platform
+  - Connectivity
+  - Numbers & Routing
+  - Automation
+  - Messaging
+  - Contact Center
+  - Developer Experience
+  - Trust & Operations
 - About
 - Approach
 - Principles
